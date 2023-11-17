@@ -18,6 +18,10 @@ This repository contains the source code for a web application for gaming which 
 ## Features
 
 - **User-Friendly Interfaces:** Intuitive and clutter-free design.
+- **Timer:** Auto generating Timer.
+- **User-Friendly options:** Pause,Resume,Play.
+- **Gaming features:** Score board,Lives,easy to hard Levels.
+- **Multi games:** 2 differnt games.
 
 ## Technologies Used
 
@@ -31,9 +35,9 @@ This repository contains the source code for a web application for gaming which 
 ## Getting Started
 
 1. **Clone the repository:**
-2. **Open the project in Android Studio.**
-3. **Ensure dependencies are installed and Firebase is set up.**
-4. **Run the application on an Android emulator or physical device.**
+2. **Open the project in VS code editor**
+3. **Open the project in wamp server**
+4. **Run the application.**
 
 ## Usage
 Download and install the Code and run on a server.
